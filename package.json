@@ -2,7 +2,7 @@
   "name": "com.gnarlygamestudio.systemtimer",
   "displayName": "System Timer",
   "version": "1.0.0",
-  "unity": "6000.0.62f1",
+  "unity": "6000.0",
   "description": "This is easiest way to change date time on unity editor.",
   "author": {
     "name": "Gnarly Game Studio",
