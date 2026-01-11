@@ -3,7 +3,7 @@ using _Game.Domains.Timer;
 using UnityEditor;
 using UnityEngine;
 
-namespace com.gnarlygamestudio.systemtimer.Editor
+namespace Gnarly.Timer.Editor
 {
     public class SystemTimerWindow : EditorWindow
     {

@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace com.gnarlygamestudio.systemtimer.Editor
+namespace Gnarly.Timer.Editor
 {
     [InitializeOnLoad]
     public static class ToolbarExtender

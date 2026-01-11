@@ -1,6 +1,6 @@
 using System;
 
-namespace _Game.Domains.Timer
+namespace Gnarly.Timer
 {
     public static class SystemTimer
     {
